@@ -1,0 +1,15 @@
+time,message,logger,level
+2018-01-10 00:18:17.4090,Cannot delete existing performance counter LogIn,MvcMusicStore.Infrostructure,Error
+2018-01-10 00:18:17.4311,Cannot create Performance Category LogIn because it already exists,MvcMusicStore.Infrostructure,Error
+2018-01-10 00:18:17.4880,Cannot delete existing performance counter LogOut,MvcMusicStore.Infrostructure,Error
+2018-01-10 00:18:17.4949,Cannot create Performance Category LogOut because it already exists,MvcMusicStore.Infrostructure,Error
+2018-01-10 00:18:17.5374,Cannot delete existing performance counter Registration,MvcMusicStore.Infrostructure,Error
+2018-01-10 00:18:17.5443,Cannot create Performance Category Registration because it already exists,MvcMusicStore.Infrostructure,Error
+2018-01-10 00:18:19.7045,Request to redirect to the main application page,MvcMusicStore.Controllers.HomeController,Info
+2018-01-10 00:18:24.1622,Request to redirect to the main application page,MvcMusicStore.Controllers.HomeController,Info
+2018-01-10 00:18:27.5129,Request to redirect to the main application page,MvcMusicStore.Controllers.HomeController,Info
+2018-01-10 00:18:36.1367,Card was migrated for user qwerty ,MvcMusicStore.Controllers.AccountController,Info
+2018-01-10 00:18:36.1367,User qwerty successfully authorized,MvcMusicStore.Controllers.AccountController,Info
+2018-01-10 00:18:36.1651,Request to redirect to the main application page,MvcMusicStore.Controllers.HomeController,Info
+2018-01-10 00:18:37.8322,User with name qwerty logoff,MvcMusicStore.Controllers.AccountController,Info
+2018-01-10 00:18:37.8400,Request to redirect to the main application page,MvcMusicStore.Controllers.HomeController,Info

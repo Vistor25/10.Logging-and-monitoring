@@ -1,0 +1,14 @@
+2018-01-10 00:18:17.4090|Error|Cannot delete existing performance counter LogIn
+2018-01-10 00:18:17.4311|Error|Cannot create Performance Category LogIn because it already exists
+2018-01-10 00:18:17.4880|Error|Cannot delete existing performance counter LogOut
+2018-01-10 00:18:17.4949|Error|Cannot create Performance Category LogOut because it already exists
+2018-01-10 00:18:17.5374|Error|Cannot delete existing performance counter Registration
+2018-01-10 00:18:17.5443|Error|Cannot create Performance Category Registration because it already exists
+2018-01-10 00:18:19.7045|Info|Request to redirect to the main application page
+2018-01-10 00:18:24.1622|Info|Request to redirect to the main application page
+2018-01-10 00:18:27.5129|Info|Request to redirect to the main application page
+2018-01-10 00:18:36.1367|Info|Card was migrated for user qwerty 
+2018-01-10 00:18:36.1367|Info|User qwerty successfully authorized
+2018-01-10 00:18:36.1651|Info|Request to redirect to the main application page
+2018-01-10 00:18:37.8322|Info|User with name qwerty logoff
+2018-01-10 00:18:37.8400|Info|Request to redirect to the main application page
