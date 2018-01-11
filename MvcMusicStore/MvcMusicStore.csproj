@@ -225,6 +225,8 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="LogParsers\ErrorTypes.bat" />
+    <Content Include="LogParsers\GroupingLogs.bat" />
     <None Include="NLog.xsd">
       <SubType>Designer</SubType>
     </None>
